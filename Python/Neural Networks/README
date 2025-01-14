@@ -1,0 +1,5 @@
+I created this assignment as a part of my Artificial Intelligence in Business Course. The task was to build a neural network using PyTorch to predict
+the outcome of a given Breast Cancer data set. I then visualized the ongoing results of the neural network during training to display the inverse
+relationship between accuracy and loss in my model as the number of epochs increased. These values would likely change if I were to increase the number
+of epochs to greater than 100, which is why I kept the epochs set to 100. Overall, I was able to achieve high performance metrics of accuracy,
+precision, and recall, with a minimal loss.
